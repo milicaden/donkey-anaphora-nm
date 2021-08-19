@@ -1,0 +1,73 @@
+Quantifier,Cond.num,item,Rtype,DE,UE,Conditiontype,Condition,Task
+All,Weak,squareheart,AllsquareheartWeak2.jpg,--,--,readings,Weak,TVJT
+All,Weak,squareheart,AllsquareheartWeak5.jpg,--,--,readings,Weak,TVJT
+All,Weak,squareheart,AllsquareheartWeak6.jpg,--,--,readings,Weak,TVJT
+All,Strong,squareheart,AllsquareheartStrong6.jpg,--,--,readings,Strong,TVJT
+All,Strong,squareheart,AllsquareheartStrong2.jpg,--,--,readings,Strong,TVJT
+All,Strong,squarestar,AllsquarestarStrong1.jpg,--,--,readings,Strong,TVJT
+All,Strong,squarestar,AllsquarestarStrong4.jpg,--,--,readings,Strong,TVJT
+All,Weak,squarestar,AllsquarestarWeak3.jpg,--,--,readings,Weak,TVJT
+All,False,squarestar,AllsquarestarFalse1.jpg,--,--,false controls,False,TVJT
+All,False,squarestar,AllsquarestarFalse2.jpg,--,--,false controls,False,TVJT
+All,False,triangleheart,AlltriangleheartFalse5.jpg,--,--,false controls,False,TVJT
+All,False,triangleheart,AlltriangleheartFalse6.jpg,--,--,false controls,False,TVJT
+All,Weak,triangleheart,AlltriangleheartWeak1.jpg,--,--,readings,Weak,TVJT
+All,Strong,triangleheart,AlltriangleheartStrong3.jpg,--,--,readings,Strong,TVJT
+All,Strong,triangleheart,AlltriangleheartStrong5.jpg,--,--,readings,Strong,TVJT
+All,False,trianglestar,AlltrianglestarFalse4.jpg,--,--,false controls,False,TVJT
+All,False,trianglestar,AlltrianglestarFalse3.jpg,--,--,false controls,False,TVJT
+All,Weak,trianglestar,AlltrianglestarWeak4.jpg,--,--,readings,Weak,TVJT
+All,-,mosquitocinema enthusiast,InfSymmetrymosquitocinema enthusiastAll,-,-,Symmetry,InfSymmetry,IJT
+All,-,doveliterature enthusiast,InfSymmetrydoveliterature enthusiastAll,-,-,Symmetry,InfSymmetry,IJT
+All,-,poodlemusic enthusiast,InfSymmetrypoodlemusic enthusiastAll,-,-,Symmetry,InfSymmetry,IJT
+All,-,crocodiletheater enthusiast,InfSymmetrycrocodiletheater enthusiastAll,-,-,Symmetry,InfSymmetry,IJT
+All,-,tarantulatravel enthusiast,InfSymmetrytarantulatravel enthusiastAll,-,-,Symmetry,InfSymmetry,IJT
+All,-,cobramuseum enthusiast,InfSymmetrycobramuseum enthusiastAll,-,-,Symmetry,InfSymmetry,IJT
+All,-,planted a flowerplanted a rose,InfScopeDEplanted a flowerplanted a roseAll,-,-,Scope,InfScopeDE,IJT
+All,-,watched a filmwatched a documentary,InfScopeDEwatched a filmwatched a documentaryAll,-,-,Scope,InfScopeDE,IJT
+All,-,wrote a bookwrote a novel,InfScopeDEwrote a bookwrote a novelAll,-,-,Scope,InfScopeDE,IJT
+All,-,talked to an artisttalked to a sculptor,InfScopeDEtalked to an artisttalked to a sculptorAll,-,-,Scope,InfScopeDE,IJT
+All,-,travelled to Europetravelled to France,InfScopeDEtravelled to Europetravelled to FranceAll,-,-,Scope,InfScopeDE,IJT
+All,-,prepared an Asian dishprepared a Japanese dish,InfScopeDEprepared an Asian dishprepared a Japanese dishAll,-,-,Scope,InfScopeDE,IJT
+All,-,planted a roseplanted a flower,InfScopeUEplanted a roseplanted a flowerAll,-,-,Scope,InfScopeUE,IJT
+All,-,watched a documentarywatched a film,InfScopeUEwatched a documentarywatched a filmAll,-,-,Scope,InfScopeUE,IJT
+All,-,wrote a novelwrote a book,InfScopeUEwrote a novelwrote a bookAll,-,-,Scope,InfScopeUE,IJT
+All,-,talked to a sculptortalked to an artist,InfScopeUEtalked to a sculptortalked to an artistAll,-,-,Scope,InfScopeUE,IJT
+All,-,travelled to Francetravelled to Europe,InfScopeUEtravelled to Francetravelled to EuropeAll,-,-,Scope,InfScopeUE,IJT
+All,-,prepared a Japanese dishprepared an Asian dish,InfScopeUEprepared a Japanese dishprepared an Asian dishAll,-,-,Scope,InfScopeUE,IJT
+All,-,spidertarantula,InfRestrictorDEspidertarantulaAll,-,-,Restrictor,InfRestrictorDE,IJT
+All,-,snakecobra,InfRestrictorDEsnakecobraAll,-,-,Restrictor,InfRestrictorDE,IJT
+All,-,dogpoodle,InfRestrictorDEdogpoodleAll,-,-,Restrictor,InfRestrictorDE,IJT
+All,-,insectmosquito,InfRestrictorDEinsectmosquitoAll,-,-,Restrictor,InfRestrictorDE,IJT
+All,-,birddove,InfRestrictorDEbirddoveAll,-,-,Restrictor,InfRestrictorDE,IJT
+All,-,reptilecrocodile,InfRestrictorDEreptilecrocodileAll,-,-,Restrictor,InfRestrictorDE,IJT
+All,-,crocodilereptile,InfRestrictorUEcrocodilereptileAll,-,-,Restrictor,InfRestrictorUE,IJT
+All,-,tarantulaspider,InfRestrictorUEtarantulaspiderAll,-,-,Restrictor,InfRestrictorUE,IJT
+All,-,cobrasnake,InfRestrictorUEcobrasnakeAll,-,-,Restrictor,InfRestrictorUE,IJT
+All,-,poodledog,InfRestrictorUEpoodledogAll,-,-,Restrictor,InfRestrictorUE,IJT
+All,-,mosquitoinsect,InfRestrictorUEmosquitoinsectAll,-,-,Restrictor,InfRestrictorUE,IJT
+All,-,dovebird,InfRestrictorUEdovebirdAll,-,-,Restrictor,InfRestrictorUE,IJT
+All,-,planted a rosedidn't plant a rose,InfTruecontrols1planted a rosedidn't plant a roseAll,-,-,validcontrols,InfTruecontrols1,IJT
+All,-,watched a documentarydidn't watch a documentary,InfTruecontrols1watched a documentarydidn't watch a documentaryAll,-,-,validcontrols,InfTruecontrols1,IJT
+All,-,wrote a noveldidn't write a novel,InfTruecontrols1wrote a noveldidn't write a novelAll,-,-,validcontrols,InfTruecontrols1,IJT
+All,-,talked to a sculptordidn't talk to a sculptor,InfTruecontrols1talked to a sculptordidn't talk to a sculptorAll,-,-,validcontrols,InfTruecontrols1,IJT
+All,-,travelled to Francedidn't travel to France,InfTruecontrols1travelled to Francedidn't travel to FranceAll,-,-,validcontrols,InfTruecontrols1,IJT
+All,-,prepared a Japanese dishdidn't prepare a Japanese dish,InfTruecontrols1prepared a Japanese dishdidn't prepare a Japanese dishAll,-,-,validcontrols,InfTruecontrols1,IJT
+All,-,planted a rose,InfTruecontrols2planted a roseAll,-,-,validcontrols,InfTruecontrols2,IJT
+All,-,watched a documentary,InfTruecontrols2watched a documentaryAll,-,-,validcontrols,InfTruecontrols2,IJT
+All,-,wrote a novel,InfTruecontrols2wrote a novelAll,-,-,validcontrols,InfTruecontrols2,IJT
+All,-,talked to a sculptor,InfTruecontrols2talked to a sculptorAll,-,-,validcontrols,InfTruecontrols2,IJT
+All,-,travelled to France,InfTruecontrols2travelled to FranceAll,-,-,validcontrols,InfTruecontrols2,IJT
+All,-,prepared a Japanese dish,InfTruecontrols2prepared a Japanese dishAll,-,-,validcontrols,InfTruecontrols2,IJT
+All,-,planted a rosedidn't plant a rose,InfFalsecontrols1planted a rosedidn't plant a roseAll,-,-,invalidcontrols,InfFalsecontrols1,IJT
+All,-,watched a documentarydidn't watch a documentary,InfFalsecontrols1watched a documentarydidn't watch a documentaryAll,-,-,invalidcontrols,InfFalsecontrols1,IJT
+All,-,wrote a noveldidn't write a novel,InfFalsecontrols1wrote a noveldidn't write a novelAll,-,-,invalidcontrols,InfFalsecontrols1,IJT
+All,-,talked to a sculptordidn't talk to a sculptor,InfFalsecontrols1talked to a sculptordidn't talk to a sculptorAll,-,-,invalidcontrols,InfFalsecontrols1,IJT
+All,-,travelled to Francedidn't travel to France,InfFalsecontrols1travelled to Francedidn't travel to FranceAll,-,-,invalidcontrols,InfFalsecontrols1,IJT
+All,-,prepared a Japanese dishdidn't prepare a Japanese dish,InfFalsecontrols1prepared a Japanese dishdidn't prepare a Japanese dishAll,-,-,invalidcontrols,InfFalsecontrols1,IJT
+All,-,planted a rosedidn't plant a rose,InfFalsecontrols2planted a rosedidn't plant a roseAll,-,-,invalidcontrols,InfFalsecontrols2,IJT
+All,-,watched a documentarydidn't watch a documentary,InfFalsecontrols2watched a documentarydidn't watch a documentaryAll,-,-,invalidcontrols,InfFalsecontrols2,IJT
+All,-,wrote a noveldidn't write a novel,InfFalsecontrols2wrote a noveldidn't write a novelAll,-,-,invalidcontrols,InfFalsecontrols2,IJT
+All,-,talked to a sculptordidn't talk to a sculptor,InfFalsecontrols2talked to a sculptordidn't talk to a sculptorAll,-,-,invalidcontrols,InfFalsecontrols2,IJT
+All,-,travelled to Francedidn't travel to France,InfFalsecontrols2travelled to Francedidn't travel to FranceAll,-,-,invalidcontrols,InfFalsecontrols2,IJT
+All,-,prepared a Japanese dishdidn't prepare a Japanese dish,InfFalsecontrols2prepared a Japanese dishdidn't prepare a Japanese dishAll,-,-,invalidcontrols,InfFalsecontrols2,IJT

@@ -1,0 +1,73 @@
+Quantifier,Condition,item,Rtype,DE,UE,Conditiontype,Cond.num,Task
+Allbutone,DEstrong-UEfalse,trianglestar,SecondBlock-AllbutonetrianglestarCondition56.jpg,strong,FALSE,false controls,Condition5,TVJT
+Exactly3,DEstrong-UEfalse,trianglestar,SecondBlock-Exactly3trianglestarCondition56.jpg,strong,FALSE,false controls,Condition5,TVJT
+Allbutone,DEweak-UEweak,triangleheart,SecondBlock-AllbutonetriangleheartCondition24.jpg,weak,weak,readings,Condition2,TVJT
+Exactly3,DEweak-UEweak,triangleheart,SecondBlock-Exactly3triangleheartCondition24.jpg,weak,weak,readings,Condition2,TVJT
+Allbutone,DEfalse-UEstrong,squarestar,SecondBlock-AllbutonesquarestarCondition66.jpg,FALSE,strong,false controls,Condition6,TVJT
+Exactly3,DEfalse-UEstrong,squarestar,SecondBlock-Exactly3squarestarCondition66.jpg,FALSE,strong,false controls,Condition6,TVJT
+Allbutone,DEfalse-UEstrong,squarestar,FirstBlock-AllbutonesquarestarCondition63.jpg,FALSE,strong,false controls,Condition6,TVJT
+Exactly3,DEfalse-UEstrong,squarestar,FirstBlock-Exactly3squarestarCondition63.jpg,FALSE,strong,false controls,Condition6,TVJT
+Allbutone,DEfalse-UEstrong,squarestar,FirstBlock-AllbutonesquarestarCondition62.jpg,FALSE,strong,false controls,Condition6,TVJT
+Exactly3,DEfalse-UEstrong,squarestar,FirstBlock-Exactly3squarestarCondition62.jpg,FALSE,strong,false controls,Condition6,TVJT
+Allbutone,DEstrong-UEstrong,triangleheart,FirstBlock-AllbutonetriangleheartCondition34.jpg,strong,strong,readings,Condition3,TVJT
+Exactly3,DEstrong-UEstrong,triangleheart,FirstBlock-Exactly3triangleheartCondition34.jpg,strong,strong,readings,Condition3,TVJT
+Allbutone,DEstrong-UEweak,trianglestar,FirstBlock-AllbutonetrianglestarCondition46.jpg,strong,weak,readings,Condition4,TVJT
+Exactly3,DEstrong-UEweak,trianglestar,FirstBlock-Exactly3trianglestarCondition46.jpg,strong,weak,readings,Condition4,TVJT
+Allbutone,DEfalse-UEstrong,squarestar,FirstBlock-AllbutonesquarestarCondition61.jpg,FALSE,strong,false controls,Condition6,TVJT
+Exactly3,DEfalse-UEstrong,squarestar,FirstBlock-Exactly3squarestarCondition61.jpg,FALSE,strong,false controls,Condition6,TVJT
+Allbutone,DEweak-UEstrong,squarestar,SecondBlock-AllbutonesquarestarCondition12.jpg,weak,strong,readings,Condition1,TVJT
+Exactly3,DEweak-UEstrong,squarestar,SecondBlock-Exactly3squarestarCondition12.jpg,weak,strong,readings,Condition1,TVJT
+Allbutone,DEstrong-UEfalse,triangleheart,FirstBlock-AllbutonetriangleheartCondition53.jpg,strong,FALSE,false controls,Condition5,TVJT
+Exactly3,DEstrong-UEfalse,triangleheart,FirstBlock-Exactly3triangleheartCondition53.jpg,strong,FALSE,false controls,Condition5,TVJT
+Allbutone,DEweak-UEstrong,squarestar,SecondBlock-AllbutonesquarestarCondition11.jpg,weak,strong,readings,Condition1,TVJT
+Exactly3,DEweak-UEstrong,squarestar,SecondBlock-Exactly3squarestarCondition11.jpg,weak,strong,readings,Condition1,TVJT
+Allbutone,DEstrong-UEweak,triangleheart,FirstBlock-AllbutonetriangleheartCondition44.jpg,strong,weak,readings,Condition4,TVJT
+Exactly3,DEstrong-UEweak,triangleheart,FirstBlock-Exactly3triangleheartCondition44.jpg,strong,weak,readings,Condition4,TVJT
+Allbutone,DEstrong-UEweak,triangleheart,FirstBlock-AllbutonetriangleheartCondition41.jpg,strong,weak,readings,Condition4,TVJT
+Exactly3,DEstrong-UEweak,triangleheart,FirstBlock-Exactly3triangleheartCondition41.jpg,strong,weak,readings,Condition4,TVJT
+Allbutone,DEstrong-UEfalse,triangleheart,SecondBlock-AllbutonetriangleheartCondition55.jpg,strong,FALSE,false controls,Condition5,TVJT
+Exactly3,DEstrong-UEfalse,triangleheart,SecondBlock-Exactly3triangleheartCondition55.jpg,strong,FALSE,false controls,Condition5,TVJT
+Allbutone,DEstrong-UEstrong,trianglestar,FirstBlock-AllbutonetrianglestarCondition32.jpg,strong,strong,readings,Condition3,TVJT
+Exactly3,DEstrong-UEstrong,trianglestar,FirstBlock-Exactly3trianglestarCondition32.jpg,strong,strong,readings,Condition3,TVJT
+Allbutone,DEweak-UEweak,trianglestar,SecondBlock-AllbutonetrianglestarCondition25.jpg,weak,weak,readings,Condition2,TVJT
+Exactly3,DEweak-UEweak,trianglestar,SecondBlock-Exactly3trianglestarCondition25.jpg,weak,weak,readings,Condition2,TVJT
+Allbutone,DEstrong-UEstrong,squareheart,FirstBlock-AllbutonesquareheartCondition31.jpg,strong,strong,readings,Condition3,TVJT
+Exactly3,DEstrong-UEstrong,squareheart,FirstBlock-Exactly3squareheartCondition31.jpg,strong,strong,readings,Condition3,TVJT
+Allbutone,DEstrong-UEstrong,squarestar,FirstBlock-AllbutonesquarestarCondition33.jpg,strong,strong,readings,Condition3,TVJT
+Exactly3,DEstrong-UEstrong,squarestar,FirstBlock-Exactly3squarestarCondition33.jpg,strong,strong,readings,Condition3,TVJT
+Allbutone,DEweak-UEstrong,trianglestar,SecondBlock-AllbutonetrianglestarCondition15.jpg,weak,strong,readings,Condition1,TVJT
+Exactly3,DEweak-UEstrong,trianglestar,SecondBlock-Exactly3trianglestarCondition15.jpg,weak,strong,readings,Condition1,TVJT
+Allbutone,DEweak-UEweak,squarestar,SecondBlock-AllbutonesquarestarCondition26.jpg,weak,weak,readings,Condition2,TVJT
+Exactly3,DEweak-UEweak,squarestar,SecondBlock-Exactly3squarestarCondition26.jpg,weak,weak,readings,Condition2,TVJT
+Allbutone,DEfalse-UEstrong,triangleheart,SecondBlock-AllbutonetriangleheartCondition65.jpg,FALSE,strong,false controls,Condition6,TVJT
+Exactly3,DEfalse-UEstrong,triangleheart,SecondBlock-Exactly3triangleheartCondition65.jpg,FALSE,strong,false controls,Condition6,TVJT
+Allbutone,DEweak-UEstrong,trianglestar,SecondBlock-AllbutonetrianglestarCondition16.jpg,weak,strong,readings,Condition1,TVJT
+Exactly3,DEweak-UEstrong,trianglestar,SecondBlock-Exactly3trianglestarCondition16.jpg,weak,strong,readings,Condition1,TVJT
+Allbutone,DEweak-UEweak,squarestar,SecondBlock-AllbutonesquarestarCondition21.jpg,weak,weak,readings,Condition2,TVJT
+Exactly3,DEweak-UEweak,squarestar,SecondBlock-Exactly3squarestarCondition21.jpg,weak,weak,readings,Condition2,TVJT
+Allbutone,DEstrong-UEstrong,squarestar,FirstBlock-AllbutonesquarestarCondition35.jpg,strong,strong,readings,Condition3,TVJT
+Exactly3,DEstrong-UEstrong,squarestar,FirstBlock-Exactly3squarestarCondition35.jpg,strong,strong,readings,Condition3,TVJT
+Allbutone,DEstrong-UEstrong,squarestar,FirstBlock-AllbutonesquarestarCondition36.jpg,strong,strong,readings,Condition3,TVJT
+Exactly3,DEstrong-UEstrong,squarestar,FirstBlock-Exactly3squarestarCondition36.jpg,strong,strong,readings,Condition3,TVJT
+Allbutone,DEweak-UEweak,squarestar,SecondBlock-AllbutonesquarestarCondition22.jpg,weak,weak,readings,Condition2,TVJT
+Exactly3,DEweak-UEweak,squarestar,SecondBlock-Exactly3squarestarCondition22.jpg,weak,weak,readings,Condition2,TVJT
+Allbutone,DEweak-UEweak,squarestar,SecondBlock-AllbutonesquarestarCondition23.jpg,weak,weak,readings,Condition2,TVJT
+Exactly3,DEweak-UEweak,squarestar,SecondBlock-Exactly3squarestarCondition23.jpg,weak,weak,readings,Condition2,TVJT
+Allbutone,DEstrong-UEfalse,squareheart,FirstBlock-AllbutonesquareheartCondition52.jpg,strong,FALSE,false controls,Condition5,TVJT
+Exactly3,DEstrong-UEfalse,squareheart,FirstBlock-Exactly3squareheartCondition52.jpg,strong,FALSE,false controls,Condition5,TVJT
+Allbutone,DEstrong-UEfalse,squarestar,FirstBlock-AllbutonesquarestarCondition51.jpg,strong,FALSE,false controls,Condition5,TVJT
+Exactly3,DEstrong-UEfalse,squarestar,FirstBlock-Exactly3squarestarCondition51.jpg,strong,FALSE,false controls,Condition5,TVJT
+Allbutone,DEstrong-UEweak,squareheart,FirstBlock-AllbutonesquareheartCondition45.jpg,strong,weak,readings,Condition4,TVJT
+Exactly3,DEstrong-UEweak,squareheart,FirstBlock-Exactly3squareheartCondition45.jpg,strong,weak,readings,Condition4,TVJT
+Allbutone,DEweak-UEstrong,triangleheart,SecondBlock-AllbutonetriangleheartCondition13.jpg,weak,strong,readings,Condition1,TVJT
+Exactly3,DEweak-UEstrong,triangleheart,SecondBlock-Exactly3triangleheartCondition13.jpg,weak,strong,readings,Condition1,TVJT
+Allbutone,DEstrong-UEfalse,squareheart,SecondBlock-AllbutonesquareheartCondition54.jpg,strong,FALSE,false controls,Condition5,TVJT
+Exactly3,DEstrong-UEfalse,squareheart,SecondBlock-Exactly3squareheartCondition54.jpg,strong,FALSE,false controls,Condition5,TVJT
+Allbutone,DEstrong-UEweak,squarestar,FirstBlock-AllbutonesquarestarCondition42.jpg,strong,weak,readings,Condition4,TVJT
+Exactly3,DEstrong-UEweak,squarestar,FirstBlock-Exactly3squarestarCondition42.jpg,strong,weak,readings,Condition4,TVJT
+Allbutone,DEfalse-UEstrong,trianglestar,SecondBlock-AllbutonetrianglestarCondition64.jpg,FALSE,strong,false controls,Condition6,TVJT
+Exactly3,DEfalse-UEstrong,trianglestar,SecondBlock-Exactly3trianglestarCondition64.jpg,FALSE,strong,false controls,Condition6,TVJT
+Allbutone,DEstrong-UEweak,squarestar,FirstBlock-AllbutonesquarestarCondition43.jpg,strong,weak,readings,Condition4,TVJT
+Exactly3,DEstrong-UEweak,squarestar,FirstBlock-Exactly3squarestarCondition43.jpg,strong,weak,readings,Condition4,TVJT
+Allbutone,DEweak-UEstrong,triangleheart,SecondBlock-AllbutonetriangleheartCondition14.jpg,weak,strong,readings,Condition1,TVJT
+Exactly3,DEweak-UEstrong,triangleheart,SecondBlock-Exactly3triangleheartCondition14.jpg,weak,strong,readings,Condition1,TVJT
